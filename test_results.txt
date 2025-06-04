@@ -1,0 +1,25 @@
+
+=== Ellipsis Test Case ===
+Original:
+The nature of consciousness...and its meaning
+    
+    Consider this . . . deeply
+    
+    The path continues.....onwards
+    
+    + + + * * @ @ ° ° 
+    
+    Through meditation... we find the I AM presence...
+    
+    .. .. .. .. ..
+    
+    The YHVH teaches us.... about consciousness
+    
+    . . . . . . . .
+    
+    End of section...
+
+Cleaned:
+The nature of consciousness...and its meaning Consid...this deeply Th...ath continues...onwards * * @ @ ° ° ... Through meditat.....DOTDOTS...DOTS_DOTSe find the I ...presence DOTS...DOTS ...he YHVH teaches us about consciousness End of section...
+
+======================================================================
