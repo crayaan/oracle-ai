@@ -1,0 +1,100 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Model files and data
+*.pth
+*.pt
+*.onnx
+*.bin
+*.h5
+*.hdf5
+*.pkl
+*.model
+models/
+weights/
+checkpoints/
+runs/
+wandb/
+model_cache/
+*.safetensors
+
+# Large data files
+*.csv
+*.json
+*.jsonl
+*.txt
+!requirements.txt
+*.db
+*.sqlite
+data/
+datasets/
+raw_data/
+
+# Logs and temporary files
+logs/
+*.log
+temp/
+.DS_Store
+Thumbs.db
+._*
+
+# Environment variables and secrets
+.env
+.env.*
+*.key
+secrets/
+
+# CUDA
+*.cu.o
+*.ptx
+*.cubin
+
+# Installation files
+*.zip
+*.exe
+
+# Project specific
+data/spiritual_texts/
+data/processed/
+*.pdf 
